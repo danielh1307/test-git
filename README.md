@@ -17,3 +17,15 @@ Now we have created feature-3, but these changes have been done later on main.
 23 is a prime number.
 
 1 + 2 = 3 (done on feature-4 originally)
+
+Here I am doing first commit on feature 5.
+
+Second commit on feature-5.
+
+Third commit on feature-5.
+
+Fourth commit on feature-5.
+
+Fifth commit on feature-5.
+
+Sixth commit on feature-6.
